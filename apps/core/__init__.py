@@ -1,1 +1,1 @@
-Core app package for CollabDocs API.
+#Core app package for CollabDocs API.
